@@ -1,0 +1,176 @@
+/*  TAG & ID Selectors ********************  */
+
+body {
+   font-family: "Montserrat";
+}
+
+h1 {
+   color: #04a2ad;
+   font-size: 2rem;
+   font-weight: bold;
+}
+
+#title {
+ 
+}
+
+#title h3 {
+   color: #ffc417;
+   font-size: 1rem;
+   padding: 1rem 0 0.5rem 0;
+   text-align: center;
+}
+
+#title p {
+   font-size: 0.9rem;
+}
+
+
+/*  CLASS Selectors *******************  */
+
+.container-fluid {
+   padding: 1.5% 9% 3%;
+}
+
+.col-lg-3, .col-md-4 {
+   border: 2px solid #ffc417;
+   padding: 13px;
+}
+
+
+/* NAV Bar ********************* */
+
+.navbar {
+   padding: 0 0 3.5rem;
+}
+
+.navbar-brand {
+   font-family: ;
+   font-size: 1.5rem;
+   font-weight: bold;
+}
+
+.navbar button {
+   margin-left: 8px;
+}
+
+.nav-item {
+   padding: 0 15px;
+}
+
+.nav-link {
+   font-size: 1rem;
+}
+
+.navbar-light .navbar-brand {
+  color: #ffc417;
+}
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+   color: #15b2bc;
+}
+
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link {
+   color: #ffc417;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+   color: #15b2bc;
+}
+
+
+/* SECTION Title ************* */
+
+.bloque {
+   text-align: center;
+}
+
+.bloque p {
+   text-align: left;
+   padding-top: 0.1rem;
+}
+
+.sk-bar {
+   background-color: #e7f3f2;
+   height: 1rem;
+   width: 100%;
+}
+
+.sk {
+   color: #ffc417;
+   font-size: .7rem;
+   padding: 0 8px 0 0;
+   text-align: right;
+}
+
+.sk-web, .sk-ingles, .sk-arq, .sk-soft {
+   background-color: #d3eaeb;
+   height: 1rem;
+   width: 90%;
+}
+
+.sk-web, .sk-img, .sk-softr {
+   background-color: #d3eaeb;
+   height: 1rem;
+   width: 85%;
+}
+.sk-js {
+   background-color: #d3eaeb;
+   height: 1rem;
+   width: 60%;
+}
+
+.sk-read {
+   background-color: #d3eaeb;
+   height: 1rem;
+   width: 55%;
+}
+
+.sk-piano {
+   background-color: #e7f3f2;
+   height: 1rem;
+   position: absolute;
+   bottom: 1rem;
+   width: 85%;
+   z-index: -1;
+}
+
+.sk-fotos {
+   background-color: #f5f9f6;
+   height: 1rem;
+   position: relative;
+   bottom: 1rem;
+   width: 100%;
+   z-index: -2;
+}
+
+.grey {
+   color: #b8b6b0;
+}
+
+.hobbies {
+   position: relative;
+}
+
+.colores_01 {
+   background-color: #ffc417;/*yellow*/
+   height: 50px;
+}
+.colores_02 {
+   background-color: #15b2bc;
+   height: 50px;
+}
+.colores_03 {
+   background-color: #04a2ad;
+   height: 50px;
+}
+.colores_04 {
+   background-color: #d3eaeb;
+   height: 50px;
+}
+.colores_05 {
+   background-color: #5FD068;
+   height: 50px;
+}
+
+
